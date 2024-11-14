@@ -23,7 +23,7 @@ cd analytics-task
 yarn install
 ```
 
-3. Run the FastAPI Development Server:
+3. Run the React Development Server:
 ```
 yarn dev
 ```
